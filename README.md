@@ -1,9 +1,9 @@
 
 Hi there :wave:, I'm Antony Njenga
 
-I'm a Java and nodejs Developer
+I'm a Java, React and nodejs Developer
 
-* :seedling: I’m currently learning nodejs and React
+* :seedling: I’m currently learning Devops
 
 * :speech_balloon: Ask me about Springboot, Restful API's, node.js
 
